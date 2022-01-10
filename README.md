@@ -4,5 +4,5 @@ This repository contains README file for [Portfolio website](www.alicandirik.com
 
 Light Theme             |  Dark Theme
 :-------------------------:|:-------------------------:
-![day](./public/screenshots/day.jpg 'Mac OS')  |  ![night](./public/screenshots/night.jpg 'Mac OS')
-<img src="./public/screenshots/day_mobile.jpg" alt="IOS" height="400rem"> | <img src="./public/screenshots/night_mobile.jpg" height="400rem" alt="IOS">
+![day](./day.jpg 'Mac OS')  |  ![night](./night.jpg 'Mac OS')
+<img src="./day_mobile.jpg" alt="IOS" height="400rem"> | <img src="./night_mobile.jpg" height="400rem" alt="IOS">
